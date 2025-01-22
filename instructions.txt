@@ -1,9 +1,28 @@
 - git remote -v
+
+- git remote set-url origin https://BK-CodeIntel@github.com/BK-CodeIntel/BK-CodeIntel-Konatebeh21-.git
 - |
 - |---> exemple
-
 origin  https://BK-CodeIntel@github.com/BK-CodeIntel/BK-CodeIntel-Konatebeh21-.git (fetch)
 origin  https://BK-CodeIntel@github.com/BK-CodeIntel/BK-CodeIntel-Konatebeh21-.git (push)
 
-- git remote set-url origin https://BK-CodeIntel@github.com/BK-CodeIntel/BK-CodeIntel-Konatebeh21-.git
+
+- git remote set-url origin https://github.com/CreativeBeh/CreativeBeh.git
+- |
+- |---> exemple
+
+
+
+- git remote set-url origin https://github.com/konatebeh20/konatebeh20.git
+- |
+- |---> exemple
+
+
+
+- git remote set-url origin https://github.com/konate-academics/konate-academics.git
+- |
+- |---> exemple
+
+
+
 - git push origin main
