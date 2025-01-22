@@ -1,53 +1,42 @@
-# Projet BK-CodeIntel-Konatebeh21-
+# BK-CodeIntel-Konatebeh21- 🚀
 
-## Présentation
+## Présentation 📝
 
-Bonjour, je suis **Konaté Beh**, un développeur passionné et un étudiant en **Data Science**. Mon projet actuel, **BK-CodeIntel-Konatebeh21-**, est un projet personnel dédié à l'analyse des données et à la prédiction des résultats de traitements de cancer à l'aide de données multi-omiques. Ce projet s'inscrit dans un cadre d'application pratique des connaissances acquises en développement logiciel et en analyse de données.
+Bonjour, je suis **Konaté Beh**, un développeur passionné et un étudiant en **Data Science**. Ce dépôt GitHub, **BK-CodeIntel-Konatebeh21-**, est un espace personnel où je présente mes travaux en **développement logiciel** et **analyse de données**, avec un focus particulier sur l'utilisation des technologies modernes pour résoudre des problématiques complexes.
 
-Je travaille avec plusieurs technologies, dont **Angular**, **Python Flask**, et **RStudio** pour le traitement des données, dans le but de créer une solution robuste et innovante.
+L'objectif de ce dépôt est de regrouper mes projets personnels et de montrer mes compétences dans des domaines tels que **le développement web**, **l'analyse de données** et l'intégration de solutions pratiques à l'aide de **technologies comme Angular**, **Python Flask**, **RStudio**, et d'autres outils de data science.
 
-### À propos de moi :
+### À propos de moi 👨‍💻
 - **Nom** : Konaté Beh
 - **Email** : konatebeh20@gmail.com, konatebeh21@gmail.com, konatebeh3000@gmail.com, konatebeh.ci@gmail.com
-- **Compétences** : 
+- **Compétences** :
   - **Frontend** : Angular, HTML, CSS, TypeScript
   - **Backend** : Python, Flask, API RESTful
   - **Analyse de données** : R, Python (Pandas, NumPy, Scikit-learn), Analyse multi-omique
   - **Gestion de version** : Git, GitHub
   - **Développement d'applications web** : Développement complet de projets web (Frontend + Backend)
 
-## Contexte du Projet
+## Objectifs de ce dépôt 🎯
 
-Ce projet est destiné à prédire les réponses des patients aux traitements de cancer en utilisant un modèle hiérarchique bayésien qui intègre des données provenant de différentes sources, telles que des tests cliniques et des données multi-omiques. L'application permet aux cliniciens de soumettre des données et d'obtenir des prédictions sur les traitements adaptés pour chaque patient.
+Ce dépôt a pour but de :
+1. Présenter mes projets personnels de manière claire et organisée.
+2. Montrer l'évolution de mes compétences en **data science**, **développement web**, et **analyse des données**.
+3. Fournir un aperçu des technologies et des approches que j'explore et des projets futurs sur lesquels je travaillerai.
 
-### Objectifs du projet :
-1. Intégration des données cliniques et multi-omiques.
-2. Développement d'un modèle prédictif basé sur des approches bayésiennes.
-3. Déploiement de l'application web pour les cliniciens.
-4. Analyse des résultats de prédiction pour des applications pratiques en oncologie.
+### À venir 🔜 :
+Ce dépôt sera mis à jour régulièrement avec des projets en cours et des réalisations futures dans les domaines suivants :
+- **Prédiction des résultats de traitements médicaux** : Utilisation de modèles statistiques avancés pour prédire des résultats cliniques à partir de données multi-omiques.
+- **Applications web** : Développement d'applications full-stack pour des cas d'utilisation pratiques dans le domaine de la santé et de l'analyse des données.
+- **Intégration de données multi-omiques** : Développement d'outils pour traiter et analyser de grandes quantités de données biologiques.
 
-## Mes Contributions
-
-- **Frontend** : Création de l'interface utilisateur en Angular, avec un design réactif et une gestion fluide des données.
-- **Backend** : Développement de l'API RESTful avec Flask pour la gestion des requêtes et la prédiction des traitements.
-- **Analyse de données** : Prétraitement des données et construction de modèles prédictifs à l'aide de techniques statistiques avancées en R.
-
-## Technologies Utilisées
+## Technologies Utilisées 🛠️
 
 - **Frontend** : Angular, HTML, CSS, TypeScript
 - **Backend** : Python, Flask
 - **Analyse de données** : RStudio, Pandas, NumPy, Scikit-learn
 - **Gestion de version** : Git, GitHub
 
-## BK-CodeIntel-Konatebeh21-
-
-## Description
-Ce projet fait partie des initiatives de **CodeIntel**. Il s'agit d'une application web développée pour la **prédiction des résultats de traitements de cancer** à l'aide d'un modèle hiérarchique bayésien intégré avec des données multi-omiques. L'application permet aux cliniciens de faire des prédictions de traitements personnalisées basées sur les profils biologiques des patients.
-
-### Projet Personnel
-Ce dépôt GitHub est principalement destiné à mes **projets personnels** en développement logiciel et analyse de données. Il regroupe des travaux qui me permettent de progresser dans mon apprentissage de la Data Science, du développement web, et de l'analyse des données. Ces projets sont conçus comme des applications pratiques pour résoudre des problématiques réelles, tout en me permettant d'acquérir de nouvelles compétences et d'expérimenter avec de nouvelles technologies.
-
-## Prérequis
+## Prérequis 📋
 Avant de commencer, assurez-vous d'avoir les outils et configurations suivants :
 
 - [Git](https://git-scm.com/)
@@ -55,9 +44,9 @@ Avant de commencer, assurez-vous d'avoir les outils et configurations suivants :
 - [Python](https://www.python.org/) et [Flask](https://flask.palletsprojects.com/) (pour le backend)
 - [RStudio](https://www.rstudio.com/) (si nécessaire pour l'analyse de données)
 
-## Configuration du dépôt local
+## Configuration du dépôt local ⚙️
 
-1. **Cloner le dépôt :**
+1. **Cloner le dépôt** :
 
    Si vous n'avez pas encore cloné le projet, utilisez la commande suivante pour récupérer le dépôt localement :
    ```bash
